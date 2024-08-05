@@ -9,6 +9,8 @@
 - [Project Presentation](#-project-presentation)
 - [Project Learnings](#-project-learnings)
 - [Installation and Usage](#-installation-and-usage)
+- [Dashboard](#-dashboard)
+
 
 ## ❓Problem Statement
 Codex, a rising Indian energy drink brand, seeks to increase its market share in the competitive beverage industry. The company lacks clear insights into consumer preferences, market trends, and effective marketing strategies needed to drive growth and brand awareness.
@@ -74,5 +76,4 @@ The detailed presentation slides for this project can be found [here](https://gi
 - Tableau
 
 ## 📈 Dashboard
-- [Live Dasboard]()
-<img style="border-radius:25px;" src="/dashboard_ss.png">
+- [Live Dasboard](https://public.tableau.com/views/berverage/Dashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
