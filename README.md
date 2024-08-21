@@ -1,4 +1,4 @@
-# 📊 Energy Drink Strategy & Marketing Analysis
+# 📊 Energy Drink Marketing & Product Analysis
 
 ## 📕 Table of Contents
 - [Problem Statement](#-problem-statement)
