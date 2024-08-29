@@ -57,7 +57,7 @@ Codex, a rising Indian energy drink brand, seeks to increase its market share in
 
 ## 📌 Project Presentation
 ### Video Presentation
-[![ Analysis Presentation](https://github.com/amanat-mahmud/Energy-Drink-Strategy-Market-Analysis-/blob/main/cover.png)](https://youtu.be/V9WYsfUyQLg)
+[![ Analysis Presentation](https://github.com/amanat-mahmud/Energy-Drink-Strategy-Market-Analysis-/blob/main/cover.png)](https://youtu.be/tettiOvBJkQ)
 
 ### Slides
 The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/Energy-Drink-Strategy-Market-Analysis-/blob/main/slide.pdf)
