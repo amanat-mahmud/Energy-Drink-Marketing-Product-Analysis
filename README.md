@@ -25,9 +25,9 @@ Codex, a rising Indian energy drink brand, seeks to increase its market share in
 
 ## 🛠️ Tools Used
 - **Analytical & Visual:**  Tableau\
-  <img width="96" height="96" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
+  <img width="96" height="96" src="https://github.com/amanat-mahmud/useful_icons/blob/main/icons8-tableau-software-144.png" alt="tableau-software"/>
 - **Presentation:** Microsoft Power Point\
-  <img width="96" height="96" src="https://img.icons8.com/fluency/96/microsoft-powerpoint-2019.png" alt="microsoft-powerpoint-2019"/>
+  <img width="96" height="96" src="https://github.com/amanat-mahmud/useful_icons/blob/main/icons8-power-point-144.png" alt="microsoft-powerpoint-2019"/>
 
 ## 🔎 Key Findings
 1. 60% of consumers believe energy drinks impact health, highlighting a need for healthier alternatives.
